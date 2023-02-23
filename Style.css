@@ -201,7 +201,9 @@
   .box {
     width: 90%;
     margin: 10px auto;
-    height: auto;
+    height: 100%;
+    padding: 20px 0px;
+
   }
   .email,
   .password {
